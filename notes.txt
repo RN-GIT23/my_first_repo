@@ -6,3 +6,4 @@ Part 2: testing
 
 Part 3: tracking chnages with git:wq
 
+Part 4: Exercise
